@@ -10,9 +10,9 @@ $ npm start
 # go to the url in the browser
 ```
 
-# Phaser ES6 Boilerplate
+# Interactive SVG ES6 Boilerplate
 
-This is a non-professional template for building standard interactive graphics using the 
+This is a template for building interactive graphics using the 
 snapsvg ramework and ES6/2015. Its based on the Phaser Template by Daniel Belohlavek [@dbhvk](http://twitter.com/dbhvk)
 
 
@@ -39,7 +39,7 @@ You need [Node.js and npm](https://nodejs.org/). You should also have git instal
 
 Clone the repository (or download the ZIP file)
 
-`git clone https://github.com/belohlavek/phaser-es6-boilerplate.git`
+`git clone https://github.com/eqv/interactive_svg`
 
 Install dependencies
 
@@ -57,7 +57,7 @@ Any modification to the files inside the `./src` and `./static` folder will trig
 
 If you modify the contents of other files, please manually restart the server.
 
-Please report any bugs or add requests on [Github Issues](https://github.com/eqv/interactive_graphic_template/issues).
+Please report any bugs or add requests on [Github Issues](https://github.com/eqv/interactive_svg/issues).
 
 ## License
 
