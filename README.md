@@ -21,13 +21,15 @@ a basic example and *some* kind of folder structure.
 
 ## Features
 
+✔ Building interactive SVGs in a very declarative way
+
+✔ Add interactive LaTeX to your svgs via MathJax
+
 ✔ Heavily commented, flexible Gulpfile (that means it uses [Gulp](http://gulpjs.com/)).
 
 ✔ [Browserify](https://github.com/substack/node-browserify) + [Babelify](https://github.com/babel/babelify) (Yes, it uses [Babel](https://babeljs.io/)).
 
 ✔ [Browsersync](http://www.browsersync.io/) = Livereload + Mobile debugging with [Weinre](http://people.apache.org/~pmuellr/weinre-docs/latest/).
-
-✔ Example: Extending Phaser & modular development.
 
 ✔ Production ([UglifyJS](https://github.com/mishoo/UglifyJS2)) and Development ([Sourcemaps](https://developer.chrome.com/devtools/docs/javascript-debugging#source-maps)) builds.
 
